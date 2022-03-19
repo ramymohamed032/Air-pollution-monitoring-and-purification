@@ -10,11 +10,6 @@ Air pollution monitoring and purification
 This environmental pollution measurement will be useful because the system we are setting up will collect the data and send it to be stored in the cloud which will be sent to the authorities so that they can take measures to control the damage.
 *It will be useful in knowing the most polluted areas and then controlling the pollution and reducing it to the lowest percentage, which reduces the percentage of general pollution that guarantees a healthy life and reduces the increasing death rates in the recent period due to polluted air.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
 
 ## How is it used?
 
