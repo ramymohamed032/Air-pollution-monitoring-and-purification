@@ -69,8 +69,7 @@ https://www.unep.org/
 In general, air pollution measurement devices are divided into devices based on qualitative analysis and others based on quantitative analysis. Among the qualitative analysis devices are a mass spectroscope and a gas chromatography device. The two devices can be used together in measurement in the case of a complex mixture of gases, as it was possible to classify more than 100 compounds emitted from automobile exhaust using both devices together in the measurement.
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+It will be useful in knowing the most polluted areas and then controlling the pollution and reducing it to the lowest percentage, which reduces the percentage of general pollution that guarantees a healthy life and reduces the increasing death rates in the recent period due to polluted air.
 
 ## Acknowledgments
 Percentage of deaths caused by air pollution
