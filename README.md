@@ -1,6 +1,7 @@
 # Project Title
 
 Air pollution monitoring and purification
+
 ## Summary
 
  In this project I'm going to construct an IoT based weather monitor system using Arduino which can report us weather status like atmospheric pressure, temperature, humidity, air quality, light intensity etc. of your locality in real time and the data from the sensors are logged to an IoT cloud service called Thingspeak for monitoring and analysis, and then The following output takes an image of the total percentage of air pollution and then uses all of these percentages  to reduce  it for proper  pollution control .
