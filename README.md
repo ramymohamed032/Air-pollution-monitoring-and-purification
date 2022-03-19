@@ -1,6 +1,6 @@
-# Project Title
+# Air pollution monitoring and purification
 
-                                              Air pollution monitoring and purification
+Building AI course project
 
 ## Summary
 
