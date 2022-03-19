@@ -60,7 +60,10 @@ https://www.unep.org/
 
 
 |   Arduino uno   |
-![image](https://user-images.githubusercontent.com/96638371/159126620-a3c33f60-f053-4ceb-9051-a6fb94ae986e.png) 
+
+![image](https://user-images.githubusercontent.com/96638371/159126620-a3c33f60-f053-4ceb-9051-a6fb94ae986e.png)
+
+
 | 16×2 Lcd |
 ![image](https://user-images.githubusercontent.com/96638371/159126641-fd41b8c2-ac53-410e-ad88-afd819d4bf3c.png) 
  
