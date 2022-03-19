@@ -120,4 +120,4 @@ It will be useful in knowing the most polluted areas and then controlling the po
 Percentage of deaths caused by air pollution
 
  
-* etc
+I would like to extend my full thanks and appreciation to your honor for reading the research and reaching this point.
