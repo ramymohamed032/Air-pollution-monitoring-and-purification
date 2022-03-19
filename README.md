@@ -30,8 +30,8 @@ It also manufactures granules that reduce smog and turn shingles for roofs into 
 
 ![image](https://user-images.githubusercontent.com/96638371/159127152-31280e2c-ec81-4674-bd0e-1ae35d23c393.png)
 
-![image](https://user-images.githubusercontent.com/96638371/159127170-7ac4f2d4-65e1-4658-bccd-099ca91459a0.png)
 
+![Digram](https://user-images.githubusercontent.com/96638371/159127285-b839b749-1e50-4cef-90d2-e7ad41d206f2.jpg)
 
 
 
