@@ -59,44 +59,65 @@ https://www.nrdc.org/
 https://www.unep.org/
 
 
-|   Arduino uno   |
+                                                    |   Arduino uno   |
 
 ![image](https://user-images.githubusercontent.com/96638371/159126620-a3c33f60-f053-4ceb-9051-a6fb94ae986e.png)
 
 
-| 16×2 Lcd |
+                                                       | 16×2 Lcd |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126641-fd41b8c2-ac53-410e-ad88-afd819d4bf3c.png) 
+
  
-|   Breadboard      |
+                                                    |   Breadboard      |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126652-63333caf-d121-4e8b-be1f-d7f5ea2739da.png) 
 
-|  MQ 135   |
-![image](https://user-images.githubusercontent.com/96638371/159126658-1ee72366-ed5f-4bc5-902d-b1643ef67b0a.png)        
 
-|  Bmp180   |
+                                                       |  MQ 135   |
+
+![image](https://user-images.githubusercontent.com/96638371/159126658-1ee72366-ed5f-4bc5-902d-b1643ef67b0a.png) 
+
+
+                                                        |  Bmp180   |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126681-04d71f44-8bd5-4568-b951-90831b529556.png)
 
-|   Serial l2c lcd daughter  |
+
+                                               |   Serial l2c lcd daughter  |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126690-f0230b98-5457-43b4-af93-151603df54e7.png)
-|    Esp8266    |
+
+                                                     |    Esp8266    |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126698-f1e41204-f0c9-4fe0-9e1b-32b31e9e4827.png)
 
-|    Usb To Esp8266     |
+
+                                                |    Usb To Esp8266     |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126710-e7218d1c-8e10-4e05-b55a-16caaa12cd3d.png)
 
-|    DHT 11    |
+                                                   |    DHT 11    |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126734-69c5bbb2-d40b-4555-93e8-c965edaeae35.png)
 
-|     Solar panel     |
+
+                                                |     Solar panel     |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126739-f20b3dda-ee65-4154-b00a-2b5e8297abb4.png)
 
-|     LDR      | 
+
+                                                     |     LDR      | 
+
 ![image](https://user-images.githubusercontent.com/96638371/159126747-f35fd653-a56f-422a-b8a1-6245331a98a3.png)
 
-|     MB102      |
+
+                                                     |     MB102      |
+
 ![image](https://user-images.githubusercontent.com/96638371/159126756-97570f0e-b647-4b7e-8f7a-2fa1ef05a069.png)
 
-|   lithium batteries     |
+
+                                                   |   lithium batteries     |
 ![image](https://user-images.githubusercontent.com/96638371/159126777-701826df-f185-4112-8f37-3c86d5717353.png)
 
 
