@@ -4,12 +4,12 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+ In this project I'm going to construct an IoT based weather monitor system using Arduino which can report us weather status like atmospheric pressure, temperature, humidity, air quality, light intensity etc. of your locality in real time and the data from the sensors are logged to an IoT cloud service called Thingspeak for monitoring and analysis, and then The following output takes an image of the total percentage of air pollution and then uses all of these percentages  to reduce  it for proper  pollution control .
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+This environmental pollution measurement will be useful because the system we are setting up will collect the data and send it to be stored in the cloud which will be sent to the authorities so that they can take measures to control the damage.
+*It will be useful in knowing the most polluted areas and then controlling the pollution and reducing it to the lowest percentage, which reduces the percentage of general pollution that guarantees a healthy life and reduces the increasing death rates in the recent period due to polluted air.
 
 This is how you make a list, if you need one:
 * problem 1
@@ -19,14 +19,21 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+That is why this environmental pollution measurement will be useful because the system we are setting up will collect the data and send it to be stored in the cloud which will be sent to the authorities so that they can take measures to control the damage.
+Also, I was not satisfied with that, but I will mention the most important advanced means to work on purifying the air around us (pollution monitoring and purification), which is represented in the work of initiatives for absolute street trees, which artists undertake by drawing giant murals in the city using (air light) paint that purifies polluted air in a similar process for the photosynthesis process.
+
+*When the paint is exposed to sunlight, the surrounding air is converted to saturated oxygen through a chemical reaction. The project's creators say the murals should neutralize the pollution equivalent of about 60,000 cars a year. The paint remains on the frescoes for about 10 years.
+
+*And also the idea of ​​bio-solar leaves, which are large panels covered with small plants that scan carbon dioxide and release oxygen at a rate equivalent to 100 trees from the surface area of ​​one tree. The farming system also generates organic biomass from which food additives for plant food products are extracted.
+It also manufactures granules that reduce smog and turn shingles for roofs into pollution-resistant surfaces. Ceiling granules are often used to coat roofs and protect against UV rays, which helps keep buildings cool and less dependent on air conditioning.
 
 Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Picture1](https://user-images.githubusercontent.com/96638371/159126247-25cb7b2a-6d7f-463a-ade8-ca759adb7d77.jpg)
+![Picture2](https://user-images.githubusercontent.com/96638371/159126254-38d594e6-d732-441f-9f5c-2f28cc1614c3.png)
+![Picture3](https://user-images.githubusercontent.com/96638371/159126267-cd173af4-de65-4990-8eba-9e2572da00b1.png)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+
+
 
 This is how you create code examples:
 ```
@@ -48,9 +55,8 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+https://www.nrdc.org/
+https://www.unep.org/
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -59,17 +65,14 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
+In general, air pollution measurement devices are divided into devices based on qualitative analysis and others based on quantitative analysis. Among the qualitative analysis devices are a mass spectroscope and a gas chromatography device. The two devices can be used together in measurement in the case of a complex mixture of gases, as it was possible to classify more than 100 compounds emitted from automobile exhaust using both devices together in the measurement.
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
 
 ## Acknowledgments
+Percentage of deaths caused by air pollution
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+ 
 * etc
